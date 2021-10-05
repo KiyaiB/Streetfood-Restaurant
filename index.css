@@ -11,6 +11,8 @@
     box-sizing: border-box;
     margin: 50px 0px;
 }
+
+
 ul {
     list-style-type: none;
     display: flex;
@@ -24,9 +26,7 @@ li a{
     padding: 8px;
     float: right;
 }
-li a:hover {
-    color: #6CB840;
-}
+
 .eclipse {
     margin: 100px;
     width: 400px;
