@@ -1,7 +1,4 @@
 STREETFOOD-RESTAURANT
-A street food restaurant where you can make an order from the comfort of your home and get a delivery.
-
-
 Table of Content 
 *Author 
 *Description 
