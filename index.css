@@ -70,18 +70,19 @@ li a{
 .eclipse img:nth-child(5) {
     transform: rotate(-90deg) translateY(-200px);
 }
-.semi-circle{
+ .semi-circle{ 
     width: 1000px;
     height: 1000px;
     top: 0px;
     right: 0px;
+    bottom: 10px;
     background-color: #6CB840;
     position:absolute;
     z-index: 0;
-    transform: translate(60px, -50%);
+    transform: translate(100px, -50%);
     overflow: hidden;
     border-radius: 100%;
-}
+ } 
 
 #street-food {
     height: auto;
